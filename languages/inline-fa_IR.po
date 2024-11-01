@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Websima <websima2@gmail.com>\n"
+"Language-Team: Websima\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: fa\n"
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "Answer to Direct Message"
+msgstr "پاسخ به پیام مستقیم"
+
+#. Text in function
+#: includes/inliner-settings.php:226
+msgid "Before updating this settings please read the <a target=\"_blank\" href=\"http://websima.com/telegram-inliner/\">Inliner Documents</a> carefully"
+msgstr "قبلل از انجام تغییرات لطفا به <a target=\"_blank\" href=\"http://websima.com/telegram-inliner/\">آموزش اینالینر</a> مراجعه نمایید."
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "Chosen Result Template"
+msgstr "متن پیام هنگام انتخاب گزینه"
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "Count Selected Results?"
+msgstr "شمارش گزینه های انتخابی توسط کاربران"
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "Default Image"
+msgstr "تصویر پیش فرض نتایج"
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "Get Inliner ready"
+msgstr "آماده سازی اینلاینر"
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "Include Post Types"
+msgstr "نوع نوشته های مورد جستجو"
+
+#. Text in function
+#: inliner.php:1
+msgid "Inlier Settings"
+msgstr "تنظیمات اینلاینر"
+
+#. Text in function
+#: includes/inliner-settings.php:198 inliner.php:1
+msgid "Inliner Settings"
+msgstr "تنظیمات اینلاینر"
+
+#. Text in function
+#: includes/inliner-settings.php:226
+msgid "Instructions"
+msgstr "دستورالعمل"
+
+#. Text in function
+#: includes/inliner-settings.php:186
+msgid "No"
+msgstr "خیر"
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "No Result Description"
+msgstr "توضیحات برای حالتی که نتیجه ای یافت نمیشود"
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "No Result Message"
+msgstr "متن پیام برای حالتی که نتیجه ای یافت نمیشود"
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "No Result Title"
+msgstr "عنوان برای حالتی که نتیجه ای یافت نمیشود"
+
+#. Text in function
+#: includes/inliner-settings.php:226
+msgid "Post Content"
+msgstr "محتوای نوشته"
+
+#. Text in function
+#: includes/inliner-settings.php:226
+msgid "Post Excerpt"
+msgstr "چکیده"
+
+#. Text in function
+#: includes/inliner-settings.php:226
+msgid "Post Short Link"
+msgstr "لینک کوتاه شده"
+
+#. Text in function
+#: includes/inliner-settings.php:226
+msgid "Post Title"
+msgstr "عنوان نوشته"
+
+#. Text in function
+#: includes/inliner-settings.php:226
+msgid "Post Url"
+msgstr "آدرس نوشته"
+
+#. Text in function
+#: includes/inliner-settings.php:102
+msgid "Separate post types with \",\". leave emty to include posts only"
+msgstr "نوع نوشته ها را با کاما از هم جدا کنید. در صورت خالی گذاشتن تنها نوشته ها نمایش داده میشود."
+
+#. Text in function
+#: includes/inliner-settings.php:189
+msgid "Telegram Bot Token"
+msgstr "TOKEN ربات تلگرام"
+
+#. Text in echo
+#: includes/inliner-settings.php:163
+msgid "Upload"
+msgstr "بارگزاری"
+
+#. Text in function
+#: includes/inliner-settings.php:226
+msgid "Will Be Shown on Search Results"
+msgstr "در نتایج جستجو نمایش داده خواهد شد"
+
+#. Text in function
+#: includes/inliner-settings.php:185
+msgid "Yes"
+msgstr "بله"
+
+#. Text in function
+#: includes/inliner-settings.php:103
+msgid "ex: post,product,page"
+msgstr "مانند: post,product,page"
